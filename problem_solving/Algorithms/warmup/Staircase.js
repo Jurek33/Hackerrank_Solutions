@@ -1,4 +1,4 @@
-// Complete the staircase function below.
+// Complete the staircase function below
 function staircase(n) {
     const array = [];
     for (let i=0; i<n; i++) {
